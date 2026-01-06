@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['takenatms_0',['takenAtMs',['../struct_g_p_s_1_1_fix.html#aba2b148efa5f21fb2f907e262f0ede9c',1,'GPS::Fix']]],
+  ['tariff_5fper_5fkm_1',['TARIFF_PER_KM',['../screen__tariff_8h.html#a3eb3a7e649f93f71f2b2c6dc9fac1de0a722ea9d3465f110ab8754f85b4c9b1ee',1,'screen_tariff.h']]],
+  ['tariff_5fper_5flitre_2',['TARIFF_PER_LITRE',['../screen__tariff_8h.html#a3eb3a7e649f93f71f2b2c6dc9fac1de0a21e9246b76080591d76f15456e6816ff',1,'screen_tariff.h']]],
+  ['tariffmode_3',['TariffMode',['../screen__tariff_8h.html#a3eb3a7e649f93f71f2b2c6dc9fac1de0',1,'screen_tariff.h']]],
+  ['tariffmode_4',['tariffMode',['../struct_s_d_manager_1_1_trip_data.html#a982a9dff2d34e2928a46547bab6e870c',1,'SDManager::TripData::tariffMode'],['../screen__tariff_8h.html#ac1c8c2af9920ca3fc2c4222705dec357',1,'tariffMode:&#160;screen_tariff.cpp'],['../screen__tariff_8cpp.html#ac1c8c2af9920ca3fc2c4222705dec357',1,'tariffMode:&#160;screen_tariff.cpp']]],
+  ['tariffvalue_5',['tariffValue',['../struct_s_d_manager_1_1_trip_data.html#a5fd4e2ae06a15530a7eb05d7609b907c',1,'SDManager::TripData::tariffValue'],['../screen__tariff_8h.html#ab09dd812520ffc9cbbda289dd4ccbe76',1,'tariffValue:&#160;screen_tariff.cpp'],['../screen__tariff_8cpp.html#ab09dd812520ffc9cbbda289dd4ccbe76',1,'tariffValue:&#160;screen_tariff.cpp']]],
+  ['task_6',['task',['../namespace_o_b_d.html#abaa1228b06c0d46bb25c0e891384cd18',1,'OBD']]],
+  ['taskgps_7',['taskGPS',['../main_8cpp.html#a7328cc15a2023c208fc2a2b1309be856',1,'main.cpp']]],
+  ['taskobd_8',['taskOBD',['../main_8cpp.html#a1a6d1249be2d23106adc68dd7ebd1ba4',1,'main.cpp']]],
+  ['textstyle_9',['TextStyle',['../struct_text_style.html',1,'']]],
+  ['tft_10',['tft',['../main_8cpp.html#ac5d2dc3534f30f704fd7529ad0f89ff1',1,'main.cpp']]],
+  ['tft_20i_20touch_20input_11',['VSP (Primary SPI) - dla wyświetlacza TFT i touch input',['../sd__manager_8h.html#autotoc_md1',1,'']]],
+  ['tft_5fdisplay_2ecpp_12',['tft_display.cpp',['../tft__display_8cpp.html',1,'']]],
+  ['tft_5fdisplay_2eh_13',['tft_display.h',['../tft__display_8h.html',1,'']]],
+  ['tftptr_14',['tftPtr',['../screen__about_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_about.cpp'],['../screen__brightness_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_brightness.cpp'],['../screen__connection_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_connection.cpp'],['../screen__gps-debug_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_gps-debug.cpp'],['../screen__gps_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_gps.cpp'],['../screen__home_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_home.cpp'],['../screen__obd-debug_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_obd-debug.cpp'],['../screen__obd_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_obd.cpp'],['../screen__settings_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_settings.cpp'],['../screen__tariff_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_tariff.cpp'],['../screen__trip_8cpp.html#a0c8acb7f995b06705c573176fde9113f',1,'tftPtr:&#160;screen_trip.cpp']]],
+  ['timestamp_15',['timestamp',['../struct_s_d_manager_1_1_g_p_s_data.html#abf5eb89dfb6361af20593f5fa04c942e',1,'SDManager::GPSData']]],
+  ['totalcost_16',['totalCost',['../struct_s_d_manager_1_1_trip_data.html#a8ec38758f0a5efec311fd2c70ed4a06f',1,'SDManager::TripData']]],
+  ['touch_20input_17',['VSP (Primary SPI) - dla wyświetlacza TFT i touch input',['../sd__manager_8h.html#autotoc_md1',1,'']]],
+  ['trip_5feeprom_5fdistance_18',['TRIP_EEPROM_DISTANCE',['../screen__trip_8cpp.html#adb3632bfdeca0953ea9784d6b429896b',1,'screen_trip.cpp']]],
+  ['trip_5feeprom_5ffuel_19',['TRIP_EEPROM_FUEL',['../screen__trip_8cpp.html#a4756da1781269e6f70ecc6c0056a9791',1,'screen_trip.cpp']]],
+  ['trip_5feeprom_5fpaused_20',['TRIP_EEPROM_PAUSED',['../screen__trip_8cpp.html#a1c53ea498aba7d1b3a8a8f16ad8097ad',1,'screen_trip.cpp']]],
+  ['trip_5feeprom_5fvalid_5fflag_21',['TRIP_EEPROM_VALID_FLAG',['../screen__trip_8cpp.html#ac97b8dda11122eb659a78b22f5563932',1,'screen_trip.cpp']]],
+  ['tripactive_22',['tripActive',['../screen__trip_8h.html#afc711c5ea73b6bec1ddf712e6c14e861',1,'tripActive:&#160;screen_trip.cpp'],['../screen__trip_8cpp.html#afc711c5ea73b6bec1ddf712e6c14e861',1,'tripActive:&#160;screen_trip.cpp'],['../sd__manager_8cpp.html#afc711c5ea73b6bec1ddf712e6c14e861',1,'tripActive:&#160;screen_trip.cpp']]],
+  ['tripdata_23',['TripData',['../struct_s_d_manager_1_1_trip_data.html',1,'SDManager']]],
+  ['trippaused_24',['tripPaused',['../screen__trip_8h.html#a29514e4d601d6f9a9229fe979afc99eb',1,'tripPaused:&#160;screen_trip.cpp'],['../screen__trip_8cpp.html#a29514e4d601d6f9a9229fe979afc99eb',1,'tripPaused:&#160;screen_trip.cpp']]]
+];

@@ -1,0 +1,25 @@
+var screen__trip_8cpp =
+[
+    [ "TRIP_EEPROM_DISTANCE", "screen__trip_8cpp.html#adb3632bfdeca0953ea9784d6b429896b", null ],
+    [ "TRIP_EEPROM_FUEL", "screen__trip_8cpp.html#a4756da1781269e6f70ecc6c0056a9791", null ],
+    [ "TRIP_EEPROM_PAUSED", "screen__trip_8cpp.html#a1c53ea498aba7d1b3a8a8f16ad8097ad", null ],
+    [ "TRIP_EEPROM_VALID_FLAG", "screen__trip_8cpp.html#ac97b8dda11122eb659a78b22f5563932", null ],
+    [ "clearTripDataFromEEPROM", "screen__trip_8cpp.html#adcbfef063fef4bf2a9b68affeec8b771", null ],
+    [ "handleTripTouch", "screen__trip_8cpp.html#a6d7b5d7df60131aefaa91cfeb6f213f1", null ],
+    [ "initTripScreen", "screen__trip_8cpp.html#afbf472ec431f8a0906551a2f8ab30883", null ],
+    [ "loadTripDataFromEEPROM", "screen__trip_8cpp.html#a28d6c0b9d2db3e78983dd4f255cdca3c", null ],
+    [ "resetTripData", "screen__trip_8cpp.html#af124a6e7baf2451569ceb0b841492ac2", null ],
+    [ "saveTripDataToEEPROM", "screen__trip_8cpp.html#ac2e6db3f2adc19f13e90cbc7efbe7c34", null ],
+    [ "updateTripStatus", "screen__trip_8cpp.html#a134ab870870a39d9bdc4ea68c4b8a8b9", null ],
+    [ "bgTrip", "screen__trip_8cpp.html#a1605d36ba56cdc7f8e6cd6e848d4d7e0", null ],
+    [ "distanceTraveled", "screen__trip_8cpp.html#a64fd8a66d8c0d7cdfa447e543c9f248f", null ],
+    [ "fuelUsed", "screen__trip_8cpp.html#aec6329a0f4c57725a1ab18fbc87044bd", null ],
+    [ "lastDistText", "screen__trip_8cpp.html#ad9d6adc48cdbb118b246fb7100311710", null ],
+    [ "lastDueText", "screen__trip_8cpp.html#a7073760fe4b0b296e178dab226386225", null ],
+    [ "lastFuelText", "screen__trip_8cpp.html#a5eb44aa99f3db3c56ff702683d23364b", null ],
+    [ "obdErrorPending", "screen__trip_8cpp.html#aecebc5b82defe20217abcb69bdee869c", null ],
+    [ "resetTripLogicFlag", "screen__trip_8cpp.html#ab326c9073005294e840bb0dce41d3329", null ],
+    [ "tftPtr", "screen__trip_8cpp.html#a0c8acb7f995b06705c573176fde9113f", null ],
+    [ "tripActive", "screen__trip_8cpp.html#afc711c5ea73b6bec1ddf712e6c14e861", null ],
+    [ "tripPaused", "screen__trip_8cpp.html#a29514e4d601d6f9a9229fe979afc99eb", null ]
+];

@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['lastdisttext_0',['lastDistText',['../screen__trip_8cpp.html#ad9d6adc48cdbb118b246fb7100311710',1,'screen_trip.cpp']]],
+  ['lastduetext_1',['lastDueText',['../screen__trip_8cpp.html#a7073760fe4b0b296e178dab226386225',1,'screen_trip.cpp']]],
+  ['lastfix_2',['lastFix',['../namespace_g_p_s.html#a83747627e83857c8655ee1ffba103dee',1,'GPS']]],
+  ['lastfueltext_3',['lastFuelText',['../screen__obd-debug_8cpp.html#a5eb44aa99f3db3c56ff702683d23364b',1,'lastFuelText:&#160;screen_obd-debug.cpp'],['../screen__trip_8cpp.html#a5eb44aa99f3db3c56ff702683d23364b',1,'lastFuelText:&#160;screen_trip.cpp']]],
+  ['lastgpstext_4',['lastGpsText',['../screen__home_8cpp.html#ab8f59fa976a5cd3c082cf55a7e54f5f6',1,'screen_home.cpp']]],
+  ['lastlattext_5',['lastLatText',['../screen__gps-debug_8cpp.html#acd273a527b5666cc46747cd4c8ab9dc2',1,'screen_gps-debug.cpp']]],
+  ['lastlontext_6',['lastLonText',['../screen__gps-debug_8cpp.html#a0d64a80792c583e541211023efb4cf0a',1,'screen_gps-debug.cpp']]],
+  ['lastobdtext_7',['lastObdText',['../screen__home_8cpp.html#afb1b3cfa693880fb673f9a17f76347a4',1,'screen_home.cpp']]],
+  ['lastodotext_8',['lastOdoText',['../screen__obd-debug_8cpp.html#ae8003dfd0ee1cb22508e84dddcb592b8',1,'screen_obd-debug.cpp']]],
+  ['lastsample_9',['lastSample',['../namespace_g_p_s.html#a5e44e981057bd325e5bb147eb158ba1b',1,'GPS']]],
+  ['lastsattext_10',['lastSatText',['../screen__gps-debug_8cpp.html#a0447ce1234fa5c2ddd195da313a0982b',1,'screen_gps-debug.cpp']]],
+  ['lasttext_11',['lastText',['../screen__brightness_8cpp.html#afbd5f2f34d795eb5a9065365c59437ab',1,'screen_brightness.cpp']]],
+  ['lat_12',['lat',['../struct_g_p_s_1_1_fix.html#a2b83def59d0e7274a7a2d5bb1a1ccaa3',1,'GPS::Fix']]],
+  ['latitude_13',['latitude',['../struct_s_d_manager_1_1_g_p_s_data.html#aeb42a6778a85703c404270742ab27b72',1,'SDManager::GPSData']]],
+  ['listfs_14',['listFS',['../class_background.html#ac7e4bb32ccd3e119ae303f27ef4a4666',1,'Background']]],
+  ['listtrips_15',['listTrips',['../namespace_s_d_manager.html#af26ef3248c063d5c0d6322fc440efbe9',1,'SDManager']]],
+  ['lng_16',['lng',['../struct_g_p_s_1_1_fix.html#a3d9f1b292681ad18d160e6630a4f3028',1,'GPS::Fix']]],
+  ['loadtarifffromeeprom_17',['loadTariffFromEEPROM',['../screen__tariff_8h.html#ab5d077d7cf8ca75e03e31f4296690c67',1,'loadTariffFromEEPROM():&#160;screen_tariff.cpp'],['../screen__tariff_8cpp.html#ab5d077d7cf8ca75e03e31f4296690c67',1,'loadTariffFromEEPROM():&#160;screen_tariff.cpp']]],
+  ['loadtripdatafromeeprom_18',['loadTripDataFromEEPROM',['../screen__trip_8h.html#a28d6c0b9d2db3e78983dd4f255cdca3c',1,'loadTripDataFromEEPROM():&#160;screen_trip.cpp'],['../screen__trip_8cpp.html#a28d6c0b9d2db3e78983dd4f255cdca3c',1,'loadTripDataFromEEPROM():&#160;screen_trip.cpp']]],
+  ['longitude_19',['longitude',['../struct_s_d_manager_1_1_g_p_s_data.html#acee08b95d7ff2c973e3c2950c0ece9c8',1,'SDManager::GPSData']]],
+  ['loop_20',['loop',['../main_8cpp.html#afe461d27b9c48d5921c00d521181f12f',1,'main.cpp']]]
+];
